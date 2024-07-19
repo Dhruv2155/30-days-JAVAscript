@@ -1,86 +1,61 @@
-// ACtivity 1
-    // task 1:
-    var a = 23;
-    console.log(a)
+// Task 1:
+var a = 23;
+console.log(a); // Output: 23
 
-    // task 2:
-    let str = "Thanos"
-    console.log(str)
+// Task 2:
+let str = "Thanos";
+console.log(str); // Output: Thanos
 
+// Task 3:
+const boo = true;
+console.log(boo); // Output: true
 
+// Task 4:
+var num = 7;
+var str1 = "thala for a reason";
+var Abkibaar400PAAR = false;
+const arr = ["elvish", "Bhaaaaaaaiiiii"];
+const obj = new Object();
 
-// Activty 2:
-    // task 3:
-        const boo = true
-        console.log(boo)
+console.log(typeof num); // Output: number
+console.log(typeof str1); // Output: string
+console.log(typeof Abkibaar400PAAR); // Output: boolean
+console.log(typeof arr); // Output: object
+console.log(typeof obj); // Output: object
 
+// Task 5:
+let b = "Arvind KejriWaal";
+console.log(b); // Output: Arvind KejriWaal
+b = "daarubaaj";
+console.log(b); // Output: daarubaaj
 
-// Activity 3:
-    // task 4:
-    var num = 7
-    var str1 = "thala for a reason"
-    var Abkibaar400PAAR = false;
-    const arr = ["elvish","Bhaaaaaaaiiiii"]
-    const obj = new Object()
+// Task 6:
+const pm = "Narendra Modi";
+console.log(pm); // Output: Narendra Modi
+// pm = "Rahul Gandhi"; // Error: Assignment to constant variable
 
-    console.log(typeof(num))
-    console.log(typeof(str1))
-    console.log(typeof(Abkibaar400PAAR))
-    console.log(typeof(arr))
-    console.log(typeof(obj))
+// Task 7:
+var num1 = 99;
+var str2 = "haarne ka bhi ghamand hai (Khangress)";
+var aglibaarINDIAsarkaar = false;
+const arr1 = ["hello I am under the water "];
+const obj2 = new Object();
+let mindinwomen;
+let richPeopleinPak = null;
 
- 
+console.log(num1, typeof num1); // Output: 99 number
+console.log(str2, typeof str2); // Output: haarne ka bhi ghamand hai (Khangress) string
+console.log(aglibaarINDIAsarkaar, typeof aglibaarINDIAsarkaar); // Output: false boolean
+console.log(arr1, typeof arr1); // Output: [ 'hello I am under the water ' ] object
+console.log(obj2, typeof obj2); // Output: {} object
+console.log(mindinwomen, typeof mindinwomen); // Output: undefined undefined
+console.log(richPeopleinPak, typeof richPeopleinPak); // Output: null object
 
-//  Actvity 4:
-    // task 5:
-    let b = "Arvind KejriWaal"
-    console.log(b)
-    b = "daarubaaj"
-    console.log(b)
+let ex = "jaan";
+console.log(ex); // Output: jaan
+ex = "naagin";
+console.log(ex); // Output: naagin
 
-
-// Activity 5:
-    // task 5:
-       const pm = "Narendra Modi"
-       console.log(pm)
-        // pm = "Rahul Gandhi" <-|
-        // error causing line ___|
-
-   
-        var num1 = 99
-        var str2 = "haarne ka bhi ghamand hai (Khangress)"
-        var  aglibaarINDIAsarkaar = false;
-        const arr1 = ["hello I am under the water "]
-        const obj2= new Object()
-         let mindinwomen;
-         let richPeopleinPak = null;
-
-    console.log(num1,typeof(num1))
-    console.log(str2,typeof(str2))
-    console.log(aglibaarINDIAsarkaar,typeof(aglibaarINDIAsarkaar))
-    console.log(arr1,typeof(arr1))
-    console.log(obj2,typeof(obj2))
-    console.log(mindinwomen,typeof(mindinwomen))
-    console.log(richPeopleinPak,typeof(richPeopleinPak))
-
-
-    let ex = "jaan"
-    console.log(ex)
-    ex = "naagin"
-    console.log(ex)
-
-
-    const PM = "Narendra Modi"
-    console.log(PM)
-    
-    
-    // const PM = "Rahul Gandhi"
-    // error causing line
-
-
-
-
-
-
-
-
+const PM = "Narendra Modi";
+console.log(PM); // Output: Narendra Modi
+// const PM = "Rahul Gandhi"; // Error: Identifier 'PM' has already been declared
