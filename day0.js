@@ -1,6 +1,6 @@
 console.log("hello world")
 
-let a = 10;
+let a = 'k';
 console.log(a);
  
 console.log(12)
